@@ -17,7 +17,7 @@
     "@docusaurus/preset-classic": "^3.9.2",
     "@docusaurus/utils": "^3.9.2",
     "classnames": "^2.2.6",
-    "js-yaml": "^4.1.1",
+    "js-yaml": "^4.2.0",
     "lodash.merge": "^4.6.2",
     "lodash.template": "^4.5.0",
     "prism-react-renderer": "^1.0.2",
